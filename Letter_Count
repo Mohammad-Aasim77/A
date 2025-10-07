@@ -1,0 +1,6 @@
+a = str(input("Enter any Word or Sentence: "))
+length = len(a)
+print("Your Word or Sentence is a", length, "Letter Word")
+
+if __name__== "__main__":
+    pass
